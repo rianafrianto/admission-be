@@ -7,18 +7,16 @@ const SECRET_KEY = process.env.SECRET_KEY
 
 const getAllUsers = async (req, res) => {
   try {
-    const {search, page, limit} = req.params;
-    const data = {
-      search,
-      page,
-      limit
-    }
-    const [users] = await userModel.getAllUsers(data);
+    const {search, offset} = req.query.data;
+    const [users] = await userModel.getAllUsers({search, offset});
+    const [totalUser] = await userModel.getUsersTotal({search});
     res.status(200).json({
       status: "success",
       data: users,
+      total:totalUser[0].total
     });
   } catch (error) {
+    console.log(error)
     res.status(500).json({
       status: "error",
       message: "Unable to retrieve users.",
@@ -26,6 +24,7 @@ const getAllUsers = async (req, res) => {
     });
   }
 };
+
 
 const createNewUser = async (req, res) => {
   const { password, ...userData } = req.body;
