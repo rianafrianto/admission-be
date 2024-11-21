@@ -37,7 +37,25 @@ const getTuitioByUserId = async(req, res) => {
     }
 }
 
+const getAllTuition = async(req, res) => {
+    try{
+        const [tuition] = await tuitionModel.getTuition();
+        res.status(200).json({
+            status: "success",
+            data: tuition,
+          });
+    }catch(error){
+        console.log(error);
+        res.status(500).json({
+            status: "error",
+            message: "Unable to retrieve users.",
+            error: error.message,
+          });
+    }
+}
+
 module.exports = {
     createTuition,
-    getTuitioByUserId
+    getTuitioByUserId,
+    getAllTuition
 }

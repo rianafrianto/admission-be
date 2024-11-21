@@ -2,7 +2,8 @@ const dbPool = require('../config/database');
 const { param } = require('../routes/users');
 
 const getTuition = () => {
-
+    const SQLQuery = `SELECT * FROM tuition JOIN users ON users.id= tuition.user_id`;
+    return dbPool.execute(SQLQuery)
 }
 
 const getTuitioByUserId = (body) => {
@@ -32,5 +33,6 @@ const createTuition = (body) => {
 
 module.exports = {
     createTuition,
-    getTuitioByUserId
+    getTuitioByUserId,
+    getTuition
 }
