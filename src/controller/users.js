@@ -39,7 +39,8 @@ const createNewUser = async (req, res) => {
             message: "user already exist",
           });
     }else{
-        const [user] = await userModel.createNewUsers(newUser);  
+        const [user] = await userModel.createNewUsers(newUser); 
+         
         res.status(201).json({
             status: "success",
             data: user,

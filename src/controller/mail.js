@@ -1,6 +1,7 @@
 const nodemailer = require('nodemailer');
 
 const sendBookingMail = async(req, res) => {
+    console.log('it hit');
     try{
     const {fullname, email,body,subject} = req.body.data;
     console.log(req.body.data)
