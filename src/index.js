@@ -16,6 +16,7 @@ const mailRoutes = require('./routes/mail')
 const bookingConsultation = require('./routes/booking_consultation');
 const tuitionRoutes = require('./routes/tuition')
 const settingsRoutes = require('./routes/settings')
+const bookingTourRouter = require('./routes/booking_tour')
 
 app.use(cors());
 app.use(express.json());
@@ -38,6 +39,7 @@ app.use('/api/v1/mail', mailRoutes)
 app.use('/api/v1/booking-consultation', bookingConsultation)
 app.use('/api/v1/tuition', tuitionRoutes)
 app.use('/api/v1/settings', settingsRoutes)
+app.use('/api/v1/booking-tour', bookingTourRouter)
 
 
 app.listen(5770, ()=> {
