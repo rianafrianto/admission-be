@@ -20,8 +20,37 @@ const getSchools = (data) => {
 }
 
 const findSchoolGoverment = (data) => {
-  const {schoolType, ageLevel} = data
-  const SQLQuery = `SELECT *,area.area_name as school_area_name,schools.id as school_id  FROM schools JOIN area ON schools.school_area = area.id WHERE school_type=${schoolType} AND school_level = ${ageLevel}`
+  const { schoolType, ageLevel } = data
+  // const SQLQuery = `SELECT *,
+  // area.area_name as school_area_name,
+  // schools.id as school_id  
+  // FROM
+  // schools JOIN area ON schools.school_area = area.id
+  // WHERE school_type=${schoolType} 
+  // AND school_level = ${ageLevel}`
+
+  const SQLQuery = `SELECT
+  schools.*,
+  area.area_name AS school_area_name,
+  JSON_ARRAYAGG(
+    JSON_OBJECT(
+      'dsa_talent_id', dsa_talent.id, 
+      'dsa_talent', dsa_talent.talent
+    )
+  ) AS dsa  -- Concatenate dsa_talent_id and dsa_talent into an array of objects
+FROM
+  schools
+JOIN
+  area ON schools.school_area = area.id
+LEFT JOIN
+  school_dsa ON schools.id = school_dsa.school_id
+LEFT JOIN
+  dsa_talent ON school_dsa.dsa_talent_id = dsa_talent.id
+WHERE
+  schools.school_type = ${schoolType}
+  AND schools.school_level = ${ageLevel}
+GROUP BY
+schools.id, area.area_name;`;
   return dbPool.execute(SQLQuery);
 }
 
