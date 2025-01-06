@@ -59,7 +59,10 @@ const findSchoolInternational = (data) => {
   const SQLQuery = `SELECT 
   s.*,
   GROUP_CONCAT(DISTINCT ci.curriculum) AS school_curriculum, 
-  GROUP_CONCAT(DISTINCT li.language) AS school_language
+  GROUP_CONCAT(DISTINCT li.language) AS school_language,
+   JSON_ARRAYAGG(
+        JSON_OBJECT('id', ci.id, 'curriculum', ci.curriculum)
+      ) AS curriculum
 FROM 
   schools s
 LEFT JOIN 
