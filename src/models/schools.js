@@ -58,6 +58,7 @@ const findSchoolInternational = (data) => {
   const {schoolType, from, to} = data;
   const SQLQuery = `SELECT 
   s.*,
+  sif.price AS school_fee,
   GROUP_CONCAT(DISTINCT ci.curriculum) AS school_curriculum, 
   GROUP_CONCAT(DISTINCT li.language) AS school_language,
    JSON_ARRAYAGG(
@@ -73,6 +74,9 @@ LEFT JOIN
   school_language_inter sli ON s.id = sli.school_id
 LEFT JOIN 
   language_inter li ON sli.language_inter_id = li.id
+LEFT JOIN
+  (SELECT school_id, MAX(price) AS price FROM school_inter_fees WHERE term = 1 GROUP BY school_id) sif 
+    ON s.id = sif.school_id
 WHERE 
   s.school_type = ${schoolType}
   AND s.minimum_age <= ${parseInt(from)}
