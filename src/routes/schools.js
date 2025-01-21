@@ -8,6 +8,7 @@ router.post('/get-schools-by-id', schoolController.getSchoolsById)
 router.post('/set-schools-contact', schoolController.setSchoolContact)
 router.get('/get-schools', schoolController.getSchools)
 router.post('/find-schools', schoolController.findSchool)
+router.post('/update-geocode/:schoolId', schoolController.updateGeoCodeBySchoolId)
 
 //Elective
 router.get('/get-elective-list', schoolController.getElectiveList)

@@ -381,6 +381,11 @@ const getSchoolDSAs = (body) => {
     return dbPool.execute(SQLQuery);
   }
 
+  const updateGeoBySchoolId = (schoolId,coordinates ) => {
+    const SQLQuery = `UPDATE schools SET geocode = '${coordinates}' WHERE id=${schoolId}`;
+    return dbPool.execute(SQLQuery);
+  }
+
 module.exports={
     createNewSchool,
     getSchoolById,
@@ -425,5 +430,6 @@ module.exports={
     createSchoolInterFees,
     getSchoolInterFees,
     deleteSchoolInterFees,
-    updateSchoolLogo
+    updateSchoolLogo,
+    updateGeoBySchoolId
 }

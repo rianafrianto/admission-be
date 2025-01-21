@@ -2,6 +2,7 @@ const express = require("express");
 
 const schoolsModel = require('../models/schools')
 const crawlController = require('./crawl')
+const getCoordinatesFromNominatim = require("../middleware/geocode")
 
 const createNewSchool = async(req, res) => {
     const {data} = req.body;
@@ -25,7 +26,6 @@ const getSchoolsById =  async(req,res) => {
     const id = req.body.id;
     try{
         const [school] = await schoolsModel.getSchoolById(id);
-        // const [crawl] = await crawlController.crawlSchoolContact(school[0].slug);
         res.status(201).json({
             status: "success",
             data:school,
@@ -795,6 +795,26 @@ const saveSchoolDSAs = async (req, res) => {
       });
     }
   }
+
+const updateGeoCodeBySchoolId = async (req, res) => {
+  const { schoolId } = req.params;
+  const { school_address } = req.body;
+  try {
+    const coordinates = await getCoordinatesFromNominatim(school_address);
+    const update = await schoolsModel.updateGeoBySchoolId(schoolId, coordinates);
+    res.status(201).json({
+      status: "success update geo code school",
+      data: schoolId,
+    });
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({
+      status: "error",
+      message: "Failed to update geo code schools.",
+      error: error.message,
+    });
+  }
+}
   
 
 module.exports={
@@ -828,5 +848,6 @@ module.exports={
     getSchoolGovermentFees,
     createSchoolInterFees,
     getSchoolInterFees,
-    deleteSchoolInterFees
+    deleteSchoolInterFees,
+    updateGeoCodeBySchoolId
 }
