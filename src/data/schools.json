@@ -1,0 +1,1930 @@
+[
+	{
+		"id" : 49,
+		"school_address" : "2A Prince Charles Crescent, 159016"
+	},
+	{
+		"id" : 50,
+		"school_address" : "31 Anchorvale Drive, 544969"
+	},
+	{
+		"id" : 51,
+		"school_address" : "20 Ang Mo Kio Avenue 3, 569920"
+	},
+	{
+		"id" : 52,
+		"school_address" : "51 Tampines Street 61, 528565"
+	},
+	{
+		"id" : 53,
+		"school_address" : "91 Bendemeer Road, 339948"
+	},
+	{
+		"id" : 54,
+		"school_address" : "91 Telok Blangah Heights, 109100"
+	},
+	{
+		"id" : 55,
+		"school_address" : "To be located in Bukit Batok West. Address will be released at a later date."
+	},
+	{
+		"id" : 56,
+		"school_address" : "30 Pasir Ris Street 41, 518935"
+	},
+	{
+		"id" : 57,
+		"school_address" : "15 Cedar Avenue, 349700"
+	},
+	{
+		"id" : 58,
+		"school_address" : "35 Bukit Batok Street 31, 659441"
+	},
+	{
+		"id" : 59,
+		"school_address" : "11 Pasir Ris Street 52, 518866"
+	},
+	{
+		"id" : 60,
+		"school_address" : "2 Farrer Park Road, 217567"
+	},
+	{
+		"id" : 61,
+		"school_address" : "307 Bedok North Road, 469680"
+	},
+	{
+		"id" : 62,
+		"school_address" : "70 Fernvale Link, 797538"
+	},
+	{
+		"id" : 63,
+		"school_address" : "1 Fernvale Lane, 797701"
+	},
+	{
+		"id" : 64,
+		"school_address" : "7 Lorong 8 Toa Payoh, 319252"
+	},
+	{
+		"id" : 65,
+		"school_address" : "20 Jurong West Street 61, 648200"
+	},
+	{
+		"id" : 66,
+		"school_address" : "1 Tampines Street 42, 529176"
+	},
+	{
+		"id" : 67,
+		"school_address" : "50 Edgedale Plains, 828848"
+	},
+	{
+		"id" : 68,
+		"school_address" : "61 Edgedale Plains, 828819"
+	},
+	{
+		"id" : 89,
+		"school_address" : "1 Hougang Street 93, 534238"
+	},
+	{
+		"id" : 90,
+		"school_address" : "21 Yishun Avenue 11, 768857"
+	},
+	{
+		"id" : 91,
+		"school_address" : "5 Ang Mo Kio Street 52, 569228"
+	},
+	{
+		"id" : 92,
+		"school_address" : "2 Tampines Street 91, 528906"
+	},
+	{
+		"id" : 93,
+		"school_address" : "30 Jurong West Street 61, 648368"
+	},
+	{
+		"id" : 94,
+		"school_address" : "11 Choa Chu Kang Street 54, 689189"
+	},
+	{
+		"id" : 95,
+		"school_address" : "200 Ang Mo Kio Avenue 5, 569878"
+	},
+	{
+		"id" : 96,
+		"school_address" : "20 Pasir Ris Street 71, 518798"
+	},
+	{
+		"id" : 97,
+		"school_address" : "7 Yishun Avenue 4, 769028"
+	},
+	{
+		"id" : 98,
+		"school_address" : "To be located in Tampines North. Address will be released at a later date."
+	},
+	{
+		"id" : 99,
+		"school_address" : "210 Yishun Avenue 6, 768960"
+	},
+	{
+		"id" : 100,
+		"school_address" : "20 Compassvale Link, 544974"
+	},
+	{
+		"id" : 101,
+		"school_address" : "61 Sembawang Drive, 757622"
+	},
+	{
+		"id" : 102,
+		"school_address" : "30 Northshore Drive, 828671"
+	},
+	{
+		"id" : 103,
+		"school_address" : "71 Edgefield Plains, 828716"
+	},
+	{
+		"id" : 104,
+		"school_address" : "15 Clementi Avenue 5, 129857"
+	},
+	{
+		"id" : 105,
+		"school_address" : "To be located in the Plantation District of Tengah. Address will be released at a later date."
+	},
+	{
+		"id" : 106,
+		"school_address" : "30 Bukit Batok West Avenue 3, 659163"
+	},
+	{
+		"id" : 107,
+		"school_address" : "61 Hougang Avenue 8, 538787"
+	},
+	{
+		"id" : 108,
+		"school_address" : "52 Sumang Walk, 828674"
+	},
+	{
+		"id" : 109,
+		"school_address" : "98 Punggol Walk, 828772"
+	},
+	{
+		"id" : 110,
+		"school_address" : "9 Punggol Place, 828845"
+	},
+	{
+		"id" : 111,
+		"school_address" : "110 Woodlands Crescent, 737803"
+	},
+	{
+		"id" : 112,
+		"school_address" : "80 Rivervale Drive, 545092"
+	},
+	{
+		"id" : 113,
+		"school_address" : "10 Sembawang Drive, 757715"
+	},
+	{
+		"id" : 114,
+		"school_address" : "15 Fernvale Road, 797636"
+	},
+	{
+		"id" : 115,
+		"school_address" : "8 Jurong West Street 51, 649332"
+	},
+	{
+		"id" : 116,
+		"school_address" : "6 Choa Chu Kang Central, 689762"
+	},
+	{
+		"id" : 117,
+		"school_address" : "71 Anchorvale Link, 544799"
+	},
+	{
+		"id" : 118,
+		"school_address" : "250 Tampines Street 12, 529426"
+	},
+	{
+		"id" : 119,
+		"school_address" : "10 Seraya Road, 437259"
+	},
+	{
+		"id" : 120,
+		"school_address" : "501 Bedok South Avenue 3, 469300"
+	},
+	{
+		"id" : 121,
+		"school_address" : "3 Ang Mo Kio Avenue 10, 569730"
+	},
+	{
+		"id" : 122,
+		"school_address" : "49 Punggol Central, 828728"
+	},
+	{
+		"id" : 123,
+		"school_address" : "70 Punggol Drive, 828802"
+	},
+	{
+		"id" : 124,
+		"school_address" : "10 Wellington Circle, 757702"
+	},
+	{
+		"id" : 125,
+		"school_address" : "60 Bukit Panjang Ring Road, 679946"
+	},
+	{
+		"id" : 126,
+		"school_address" : "31 Senja Road, 677742"
+	},
+	{
+		"id" : 127,
+		"school_address" : "1 Jurong West Street 73, 649188"
+	},
+	{
+		"id" : 128,
+		"school_address" : "15 Serangoon Avenue 3, 556108"
+	},
+	{
+		"id" : 129,
+		"school_address" : "500 Yishun Ring Road, 768679"
+	},
+	{
+		"id" : 130,
+		"school_address" : "9 Fajar Road, 679002"
+	},
+	{
+		"id" : 133,
+		"school_address" : "some street"
+	},
+	{
+		"id" : 154,
+		"school_address" : "11 Woodlands Circle, S738907"
+	},
+	{
+		"id" : 155,
+		"school_address" : "10 Yishun Street 11, S768643"
+	},
+	{
+		"id" : 157,
+		"school_address" : "2A Prince Charles Crescent, S159016"
+	},
+	{
+		"id" : 158,
+		"school_address" : "31 Anchorvale Drive, S544969"
+	},
+	{
+		"id" : 159,
+		"school_address" : "19 Ang Mo Kio Ave 9, S569785"
+	},
+	{
+		"id" : 160,
+		"school_address" : "20 Ang Mo Kio Avenue 3, S569920"
+	},
+	{
+		"id" : 162,
+		"school_address" : "50 Barker Road, S309918"
+	},
+	{
+		"id" : 163,
+		"school_address" : "51 Tampines Street 61, S528565"
+	},
+	{
+		"id" : 164,
+		"school_address" : "36 Bukit Panjang Ring Road, S679944"
+	},
+	{
+		"id" : 165,
+		"school_address" : "1 Bedok South Ave 2, S469317"
+	},
+	{
+		"id" : 166,
+		"school_address" : "91 Bendemeer Road, S339948"
+	},
+	{
+		"id" : 167,
+		"school_address" : "91 Telok Blangah Heights, S109100"
+	},
+	{
+		"id" : 168,
+		"school_address" : "20 Boon Lay Drive, S649930"
+	},
+	{
+		"id" : 169,
+		"school_address" : "109 Cashew Road, S679676"
+	},
+	{
+		"id" : 170,
+		"school_address" : "111 Lorong Kismis, S598112"
+	},
+	{
+		"id" : 171,
+		"school_address" : "18 Bukit Batok Street 21, S659634"
+	},
+	{
+		"id" : 172,
+		"school_address" : "21 Admiralty Drive, S757714"
+	},
+	{
+		"id" : 173,
+		"school_address" : "1 Sallim Road, S387621"
+	},
+	{
+		"id" : 174,
+		"school_address" : "100 Bright Hill Drive, S579646"
+	},
+	{
+		"id" : 175,
+		"school_address" : "16 Winstedt Road, S227988"
+	},
+	{
+		"id" : 177,
+		"school_address" : "1 Cantonment Close, S088256"
+	},
+	{
+		"id" : 178,
+		"school_address" : "30 Pasir Ris St 41, S518935"
+	},
+	{
+		"id" : 179,
+		"school_address" : "9 Bishan Street 22, S579767"
+	},
+	{
+		"id" : 180,
+		"school_address" : "15 Cedar Avenue, S349700"
+	},
+	{
+		"id" : 181,
+		"school_address" : "11 Simei St 3, S529896"
+	},
+	{
+		"id" : 182,
+		"school_address" : "17 Martia Road, S424821"
+	},
+	{
+		"id" : 183,
+		"school_address" : "1 Bukit Teresa Road, S099757"
+	},
+	{
+		"id" : 184,
+		"school_address" : "2C Burghley Drive, S558979"
+	},
+	{
+		"id" : 185,
+		"school_address" : "1257 Upper Serangoon Road, S534793"
+	},
+	{
+		"id" : 186,
+		"school_address" : "4 Chestnut Drive, S679287"
+	},
+	{
+		"id" : 187,
+		"school_address" : "628 Lorong 1 Toa Payoh, S319765"
+	},
+	{
+		"id" : 188,
+		"school_address" : "501 Ang Mo Kio Street 13, S569405"
+	},
+	{
+		"id" : 189,
+		"school_address" : "170 Yishun Avenue 6, S768959"
+	},
+	{
+		"id" : 190,
+		"school_address" : "1 Tampines Street 21, S529392"
+	},
+	{
+		"id" : 191,
+		"school_address" : "20 Choa Chu Kang Avenue 2, S689905"
+	},
+	{
+		"id" : 192,
+		"school_address" : "8 Clementi Ave 3, S129903"
+	},
+	{
+		"id" : 193,
+		"school_address" : "21 Compassvale St, S545091"
+	},
+	{
+		"id" : 194,
+		"school_address" : "3 Choa Chu Kang Ave 4, S689814"
+	},
+	{
+		"id" : 195,
+		"school_address" : "31 Jurong West Street 24, S648347"
+	},
+	{
+		"id" : 196,
+		"school_address" : "52 Bedok Reservoir Crescent, S479226"
+	},
+	{
+		"id" : 197,
+		"school_address" : "35 Bukit Batok Street 31, 659441"
+	},
+	{
+		"id" : 198,
+		"school_address" : "11 Choa Chu Kang St 52, 689285"
+	},
+	{
+		"id" : 199,
+		"school_address" : "31 Tampines St 33, 529258"
+	},
+	{
+		"id" : 200,
+		"school_address" : "41 Edgefield Plains, 828869"
+	},
+	{
+		"id" : 201,
+		"school_address" : "11 Pasir Ris Street 52, 518866"
+	},
+	{
+		"id" : 202,
+		"school_address" : "10 Admiralty Link, 757521"
+	},
+	{
+		"id" : 203,
+		"school_address" : "31 Woodlands Circle, 738908"
+	},
+	{
+		"id" : 204,
+		"school_address" : "100 Dover Road, 139648"
+	},
+	{
+		"id" : 205,
+		"school_address" : "2 Farrer Park Road, 217567"
+	},
+	{
+		"id" : 206,
+		"school_address" : "307 Bedok North Road, 469680"
+	},
+	{
+		"id" : 207,
+		"school_address" : "70 Fernvale Link, 797538"
+	},
+	{
+		"id" : 208,
+		"school_address" : "1 Fernvale Lane, 797701"
+	},
+	{
+		"id" : 209,
+		"school_address" : "7 Lorong 8 Toa Payoh, 319252"
+	},
+	{
+		"id" : 210,
+		"school_address" : "20 Jurong West Street 61, 648200"
+	},
+	{
+		"id" : 211,
+		"school_address" : "23 Woodlands Avenue 1, 739063"
+	},
+	{
+		"id" : 212,
+		"school_address" : "65 Jurong East Street 13, 609647"
+	},
+	{
+		"id" : 213,
+		"school_address" : "100 Redhill Close, 158901"
+	},
+	{
+		"id" : 214,
+		"school_address" : "4 Geylang East Central, 389706"
+	},
+	{
+		"id" : 215,
+		"school_address" : "1 Tampines Street 42, 529176"
+	},
+	{
+		"id" : 216,
+		"school_address" : "50 Edgedale Plains, 828848"
+	},
+	{
+		"id" : 217,
+		"school_address" : "11 Jelapang Road, 6777446"
+	},
+	{
+		"id" : 218,
+		"school_address" : "11 Woodlands Dr 62, 73794223"
+	},
+	{
+		"id" : 219,
+		"school_address" : "51 Koon Seng Road, 42707228"
+	},
+	{
+		"id" : 220,
+		"school_address" : "1 Holland Grove Road, 27879026"
+	},
+	{
+		"id" : 221,
+		"school_address" : "5 Lorong Low Koon, 53645110"
+	},
+	{
+		"id" : 222,
+		"school_address" : "30 Towner Road, 32782911"
+	},
+	{
+		"id" : 223,
+		"school_address" : "61 Edgedale Plains, 82881914"
+	},
+	{
+		"id" : 224,
+		"school_address" : "1 Hougang St 93, 5342389"
+	},
+	{
+		"id" : 225,
+		"school_address" : "21 Yishun Avenue 1, 76885724"
+	},
+	{
+		"id" : 226,
+		"school_address" : "80 Woodlands Drive 17, 73788823"
+	},
+	{
+		"id" : 227,
+		"school_address" : "2 Yishun Street 71, 76851524"
+	},
+	{
+		"id" : 228,
+		"school_address" : "5 Ang Mo Kio St 52, 5692281"
+	},
+	{
+		"id" : 229,
+		"school_address" : "2 Tampines Street 91, 52890618"
+	},
+	{
+		"id" : 230,
+		"school_address" : "320 Jurong East Street 32, 60947610"
+	},
+	{
+		"id" : 231,
+		"school_address" : "30 Jurong West St 61, 64836810"
+	},
+	{
+		"id" : 232,
+		"school_address" : "90 Bukit Batok East Avenue 6, 6597623"
+	},
+	{
+		"id" : 233,
+		"school_address" : "15 Lorong 3 Toa Payoh, 31958022"
+	},
+	{
+		"id" : 234,
+		"school_address" : "350 Guillemard Road, 39977228"
+	},
+	{
+		"id" : 235,
+		"school_address" : "11 Choa Chu Kang Street 54, 6891896"
+	},
+	{
+		"id" : 236,
+		"school_address" : "8 Bishan Street 13, 57979325"
+	},
+	{
+		"id" : 237,
+		"school_address" : "161 Corporation Walk, 61831010"
+	},
+	{
+		"id" : 238,
+		"school_address" : "2 Bukit Batok Street 52, 6592433"
+	},
+	{
+		"id" : 239,
+		"school_address" : "10 Ubi Avenue 1, 40893128"
+	},
+	{
+		"id" : 240,
+		"school_address" : "25 Mount Vernon Road, 36805122"
+	},
+	{
+		"id" : 241,
+		"school_address" : "31 Woodlands Centre Road, 73892723"
+	},
+	{
+		"id" : 242,
+		"school_address" : "20 Marymount Road, 29775422"
+	},
+	{
+		"id" : 243,
+		"school_address" : "200 Ang Mo Kio Avenue 5, 5698781"
+	},
+	{
+		"id" : 244,
+		"school_address" : "21 Edgedale Plains, 82886714"
+	},
+	{
+		"id" : 245,
+		"school_address" : "20 Pasir Ris St 71, 51879813"
+	},
+	{
+		"id" : 246,
+		"school_address" : "11 Blackmore Drive, 59998626"
+	},
+	{
+		"id" : 247,
+		"school_address" : "52 Hougang Avenue 8, 5387869"
+	},
+	{
+		"id" : 248,
+		"school_address" : "50 Anchorvale Link, 54508016"
+	},
+	{
+		"id" : 249,
+		"school_address" : "30 Jalan Lempeng, 1288067"
+	},
+	{
+		"id" : 250,
+		"school_address" : "52 King's Road, 26809726"
+	},
+	{
+		"id" : 251,
+		"school_address" : "7 Yishun Ave 4, 76902824"
+	},
+	{
+		"id" : 252,
+		"school_address" : "300 Tanglin Halt Road, 14881230"
+	},
+	{
+		"id" : 253,
+		"school_address" : "344 Marine Terrace, 44914912"
+	},
+	{
+		"id" : 254,
+		"school_address" : "1 Rivervale Street, 54508816"
+	},
+	{
+		"id" : 255,
+		"school_address" : "210 Yishun Avenue 6, 76896024"
+	},
+	{
+		"id" : 256,
+		"school_address" : "20 Compassvale Link, 54497416"
+	},
+	{
+		"id" : 257,
+		"school_address" : "15 Yishun Avenue 4, 76902624"
+	},
+	{
+		"id" : 258,
+		"school_address" : "61 Sembawang Drive, 75762215"
+	},
+	{
+		"id" : 259,
+		"school_address" : "30 Northshore Drive, 82867114"
+	},
+	{
+		"id" : 260,
+		"school_address" : "71 Edgefield Plains, 82871614"
+	},
+	{
+		"id" : 261,
+		"school_address" : "48 Fidelio Street, 4584362"
+	},
+	{
+		"id" : 262,
+		"school_address" : "150 Compassvale Bow, 54482216"
+	},
+	{
+		"id" : 263,
+		"school_address" : "60 Pasir Ris Drive 1, 51952413"
+	},
+	{
+		"id" : 264,
+		"school_address" : "5 Pasir Ris Street 21, 51896813"
+	},
+	{
+		"id" : 265,
+		"school_address" : "298 Lorong Ah Soo, 5367419"
+	},
+	{
+		"id" : 266,
+		"school_address" : "16 Lorong 7 Toa Payoh, 31932022"
+	},
+	{
+		"id" : 267,
+		"school_address" : "7 Pei Wah Avenue, 59761026"
+	},
+	{
+		"id" : 268,
+		"school_address" : "15 Clementi Avenue 5, 1298577"
+	},
+	{
+		"id" : 269,
+		"school_address" : "651 Yishun Ring Road, 76868724"
+	},
+	{
+		"id" : 270,
+		"school_address" : "31 Jurong West Street 91, 64903710"
+	},
+	{
+		"id" : 271,
+		"school_address" : "21 Tampines Street 71, 52906718"
+	},
+	{
+		"id" : 272,
+		"school_address" : "30 Bukit Batok West Avenue 3, 6591633"
+	},
+	{
+		"id" : 273,
+		"school_address" : "52 Sumang Walk, 82867414"
+	},
+	{
+		"id" : 274,
+		"school_address" : "98 Punggol Walk, 82877214"
+	},
+	{
+		"id" : 275,
+		"school_address" : "61 Hougang Avenue 8, 5387879"
+	},
+	{
+		"id" : 276,
+		"school_address" : "9 Punggol Place, 82884514"
+	},
+	{
+		"id" : 277,
+		"school_address" : "50 West Coast Avenue, 1281047"
+	},
+	{
+		"id" : 278,
+		"school_address" : "5 Woodlands Street 81, 73852523"
+	},
+	{
+		"id" : 279,
+		"school_address" : "310 Margaret Dr, 14930330"
+	},
+	{
+		"id" : 280,
+		"school_address" : "1 Bukit Purmei Avenue, 998404"
+	},
+	{
+		"id" : 281,
+		"school_address" : "21 Hillcrest Road, 28907226"
+	},
+	{
+		"id" : 282,
+		"school_address" : "350 Bedok North Avenue 3, 4697192"
+	},
+	{
+		"id" : 283,
+		"school_address" : "2 River Valley Green, 23799327"
+	},
+	{
+		"id" : 284,
+		"school_address" : "110 Woodlands Crescent, 73780323"
+	},
+	{
+		"id" : 285,
+		"school_address" : "80 Rivervale Drive, 54509216"
+	},
+	{
+		"id" : 286,
+		"school_address" : "21 Serangoon North Avenue 4, 55585517"
+	},
+	{
+		"id" : 287,
+		"school_address" : "6 Jurong West Street 52, 64929510"
+	},
+	{
+		"id" : 288,
+		"school_address" : "10 Sembawang Drive, 75771515"
+	},
+	{
+		"id" : 289,
+		"school_address" : "21 Compassvale Walk, 54516616"
+	},
+	{
+		"id" : 290,
+		"school_address" : "15 Fernvale Road, 79763616"
+	},
+	{
+		"id" : 291,
+		"school_address" : "8 Jurong West Street 51, 64933210"
+	},
+	{
+		"id" : 292,
+		"school_address" : "61 Woodlands Avenue 1, 73906723"
+	},
+	{
+		"id" : 293,
+		"school_address" : "190 Dunearn Road, 30943729"
+	},
+	{
+		"id" : 294,
+		"school_address" : "6 Choa Chu Kang Central, 6897626"
+	},
+	{
+		"id" : 295,
+		"school_address" : "71 Anchorvale Link, 54479916"
+	},
+	{
+		"id" : 296,
+		"school_address" : "2 Francis Thomas Drive, 35933722"
+	},
+	{
+		"id" : 297,
+		"school_address" : "1602 Bedok North Ave 4, 4697012"
+	},
+	{
+		"id" : 298,
+		"school_address" : "30 Bukit Batok St 32, 6594013"
+	},
+	{
+		"id" : 299,
+		"school_address" : "220 Lorong Chuan, 55674217"
+	},
+	{
+		"id" : 300,
+		"school_address" : "2 Tampines Ave 3, 52970618"
+	},
+	{
+		"id" : 301,
+		"school_address" : "3 Essex Road, 30933129"
+	},
+	{
+		"id" : 302,
+		"school_address" : "136 Sophia Road, 22819727"
+	},
+	{
+		"id" : 303,
+		"school_address" : "20 Siglap View, 4557892"
+	},
+	{
+		"id" : 304,
+		"school_address" : "30 Tampines Avenue 9, 52956518"
+	},
+	{
+		"id" : 305,
+		"school_address" : "250 Tampines Street 12, 52942618"
+	},
+	{
+		"id" : 306,
+		"school_address" : "10 Seraya Road, 43725912"
+	},
+	{
+		"id" : 307,
+		"school_address" : "49 Marine Crescent, 44976112"
+	},
+	{
+		"id" : 308,
+		"school_address" : "1 Ang Mo Kio Street 32, 5692991"
+	},
+	{
+		"id" : 309,
+		"school_address" : "11 Teck Whye Walk, 6882616"
+	},
+	{
+		"id" : 310,
+		"school_address" : "50 Bedok Reservoir Rd, 4792392"
+	},
+	{
+		"id" : 311,
+		"school_address" : "501 Bedok South Ave 3, 4693002"
+	},
+	{
+		"id" : 312,
+		"school_address" : "3 Ang Mo Kio Ave 10, 5697301"
+	},
+	{
+		"id" : 313,
+		"school_address" : "21 Choa Chu Kang Crescent, 6882686"
+	},
+	{
+		"id" : 314,
+		"school_address" : "49 Punggol Central, 82872814"
+	},
+	{
+		"id" : 315,
+		"school_address" : "70 Punggol Drive, 82880214"
+	},
+	{
+		"id" : 316,
+		"school_address" : "10 Wellington Circle, 75770215"
+	},
+	{
+		"id" : 317,
+		"school_address" : "1 Jurong West St 72, 64922310"
+	},
+	{
+		"id" : 318,
+		"school_address" : "60 Bukit Panjang Ring Road, 6799466"
+	},
+	{
+		"id" : 319,
+		"school_address" : "31 Senja Road, 6777426"
+	},
+	{
+		"id" : 320,
+		"school_address" : "1 Jurong West Street 73, 64918810"
+	},
+	{
+		"id" : 321,
+		"school_address" : "2 Pasir Ris St 11, 51907513"
+	},
+	{
+		"id" : 322,
+		"school_address" : "2 Woodlands Drive 14, 73807923"
+	},
+	{
+		"id" : 323,
+		"school_address" : "10 Woodlands Drive 50, 73885323"
+	},
+	{
+		"id" : 324,
+		"school_address" : "11 Woodlands Ring Road, 73824023"
+	},
+	{
+		"id" : 325,
+		"school_address" : "45 Hougang Avenue 1, 5388829"
+	},
+	{
+		"id" : 326,
+		"school_address" : "5 Jurong West Street 91, 64903610"
+	},
+	{
+		"id" : 327,
+		"school_address" : "9 Hougang Avenue 8, 5387849"
+	},
+	{
+		"id" : 328,
+		"school_address" : "8 Yishun Street 21, 76861124"
+	},
+	{
+		"id" : 329,
+		"school_address" : "15 Serangoon Avenue 3, 55610817"
+	},
+	{
+		"id" : 330,
+		"school_address" : "10 Choa Chu Kang St 64, 6891006"
+	},
+	{
+		"id" : 331,
+		"school_address" : "1 Hougang Street 51, 5387209"
+	},
+	{
+		"id" : 332,
+		"school_address" : "500 Yishun Ring Road, 76867924"
+	},
+	{
+		"id" : 333,
+		"school_address" : "56 Bedok North St 3, 4696232"
+	},
+	{
+		"id" : 334,
+		"school_address" : "158 Jurong East Street 24, 60955810"
+	},
+	{
+		"id" : 335,
+		"school_address" : "3 Tampines Street 21, 52939318"
+	},
+	{
+		"id" : 336,
+		"school_address" : "51 Jalan Membina, 1694854"
+	},
+	{
+		"id" : 337,
+		"school_address" : "9 Fajar Road, 6790026"
+	},
+	{
+		"id" : 338,
+		"school_address" : "12 Serangoon Avenue 4, 55609517"
+	},
+	{
+		"id" : 339,
+		"school_address" : "31 Woodlands Crescent, 73791623"
+	},
+	{
+		"id" : 340,
+		"school_address" : "751 Yishun Avenue 7, 76892824"
+	},
+	{
+		"id" : 341,
+		"school_address" : "10 Ang Mo Kio Street 53, 5692061"
+	},
+	{
+		"id" : 342,
+		"school_address" : "6 Ang Mo Kio Street 22, 5693621"
+	},
+	{
+		"id" : 343,
+		"school_address" : "600 Upper Changi Road, 4870122"
+	},
+	{
+		"id" : 344,
+		"school_address" : "60 Barker Road, 30991929"
+	},
+	{
+		"id" : 345,
+		"school_address" : "121 Dover Road, 13965030"
+	},
+	{
+		"id" : 346,
+		"school_address" : "622 Upper Bukit Timah Road, 6781176"
+	},
+	{
+		"id" : 347,
+		"school_address" : "30 Cashew Road, 6796976"
+	},
+	{
+		"id" : 348,
+		"school_address" : "10 Jalan Bunga Rampai, 53840322"
+	},
+	{
+		"id" : 349,
+		"school_address" : "1 Toa Payoh North, 31899022"
+	},
+	{
+		"id" : 350,
+		"school_address" : "360 Bedok North Ave 3, 4697222"
+	},
+	{
+		"id" : 351,
+		"school_address" : "1 Jalan Langgar Bedok, 4685852"
+	},
+	{
+		"id" : 352,
+		"school_address" : "6 Bedok South Avenue 3, 4692932"
+	},
+	{
+		"id" : 353,
+		"school_address" : "1 St Wilfred Road, 32791911"
+	},
+	{
+		"id" : 354,
+		"school_address" : "11 Jurong West Street 65, 64835410"
+	},
+	{
+		"id" : 355,
+		"school_address" : "2 Lorong Napiri, 5475299"
+	},
+	{
+		"id" : 356,
+		"school_address" : "61 Dakota Crescent, 39993528"
+	},
+	{
+		"id" : 357,
+		"school_address" : "50 Bukit Batok West Ave 8, 6589623"
+	},
+	{
+		"id" : 358,
+		"school_address" : "10 Lengkok Bahru, 1590504"
+	},
+	{
+		"id" : 359,
+		"school_address" : "7 Choa Chu Kang Ave 4, 6898096"
+	},
+	{
+		"id" : 360,
+		"school_address" : "16 Bukit Batok Street 21, 6596333"
+	},
+	{
+		"id" : 361,
+		"school_address" : "51 Sembawang Drive, 75769915"
+	},
+	{
+		"id" : 362,
+		"school_address" : "9 Bishan Street 22, 57976725"
+	},
+	{
+		"id" : 363,
+		"school_address" : "1 Cedar Avenue, 34969222"
+	},
+	{
+		"id" : 364,
+		"school_address" : "23 Simei St 3, 52989418"
+	},
+	{
+		"id" : 365,
+		"school_address" : "346 Marine Terrace, 44915012"
+	},
+	{
+		"id" : 366,
+		"school_address" : "626 Lorong 1 Toa Payoh, 31976422"
+	},
+	{
+		"id" : 367,
+		"school_address" : "62 Sengkang East Way, 54859516"
+	},
+	{
+		"id" : 368,
+		"school_address" : "501 Ang Mo Kio Street 13, 5694051"
+	},
+	{
+		"id" : 369,
+		"school_address" : "160 Lower Delta Road, 991384"
+	},
+	{
+		"id" : 370,
+		"school_address" : "20 Woodlands Drive 17, 73792423"
+	},
+	{
+		"id" : 371,
+		"school_address" : "31 Teck Whye Crescent, 6888486"
+	},
+	{
+		"id" : 372,
+		"school_address" : "50 Goodman Road, 43901212"
+	},
+	{
+		"id" : 373,
+		"school_address" : "11 Yishun Street 61, 76854724"
+	},
+	{
+		"id" : 374,
+		"school_address" : "10 Clementi Ave 3, 1299047"
+	},
+	{
+		"id" : 375,
+		"school_address" : "698 West Coast Road, 60878410"
+	},
+	{
+		"id" : 376,
+		"school_address" : "51 Compassvale Crescent, 54508316"
+	},
+	{
+		"id" : 377,
+		"school_address" : "357 Tanglin Road, 2479614"
+	},
+	{
+		"id" : 378,
+		"school_address" : "561 Jurong East Street 24, 60956110"
+	},
+	{
+		"id" : 379,
+		"school_address" : "4800 Bedok Reservoir Road, 4792292"
+	},
+	{
+		"id" : 380,
+		"school_address" : "1 Ang Mo Kio Street 42, 5692771"
+	},
+	{
+		"id" : 381,
+		"school_address" : "21 Bukit Batok West Avenue 2, 6592043"
+	},
+	{
+		"id" : 382,
+		"school_address" : "10 Tanjong Rhu Road, 43689511"
+	},
+	{
+		"id" : 383,
+		"school_address" : "21 Tampines Street 45, 52909318"
+	},
+	{
+		"id" : 384,
+		"school_address" : "30 Tampines Street 34, 52923118"
+	},
+	{
+		"id" : 385,
+		"school_address" : "36 Punggol Field, 82881414"
+	},
+	{
+		"id" : 386,
+		"school_address" : "11 Woodlands Street 83, 73848923"
+	},
+	{
+		"id" : 387,
+		"school_address" : "102 Dover Road, 13964930"
+	},
+	{
+		"id" : 388,
+		"school_address" : "21 Woodlands Avenue 1, 73906223"
+	},
+	{
+		"id" : 389,
+		"school_address" : "5 Jurong West Street 41, 64941010"
+	},
+	{
+		"id" : 390,
+		"school_address" : "1 Henderson Road, 1595614"
+	},
+	{
+		"id" : 391,
+		"school_address" : "2 Geylang East Central, 38970528"
+	},
+	{
+		"id" : 392,
+		"school_address" : "51 Edgedale Plains, 82886614"
+	},
+	{
+		"id" : 393,
+		"school_address" : "31 Gangsa Road, 6789726"
+	},
+	{
+		"id" : 394,
+		"school_address" : "8 Bishan Street 12, 57980725"
+	},
+	{
+		"id" : 395,
+		"school_address" : "15 Pasir Ris Street 21, 51896913"
+	},
+	{
+		"id" : 396,
+		"school_address" : "10 Bukit Batok Street 52, 6592503"
+	},
+	{
+		"id" : 397,
+		"school_address" : "1191 Upper Serangoon Road, 5347869"
+	},
+	{
+		"id" : 398,
+		"school_address" : "2 Hougang Street 93, 5342569"
+	},
+	{
+		"id" : 399,
+		"school_address" : "60 Jurong West St 42, 64937110"
+	},
+	{
+		"id" : 400,
+		"school_address" : "661 Bukit Timah Road, 26973426"
+	},
+	{
+		"id" : 401,
+		"school_address" : "11 Tampines Street 84, 52893318"
+	},
+	{
+		"id" : 402,
+		"school_address" : "31 Yuan Ching Road, 61865210"
+	},
+	{
+		"id" : 403,
+		"school_address" : "61 Jurong West Street 65, 64834810"
+	},
+	{
+		"id" : 404,
+		"school_address" : "202 Jurong East Avenue 1, 60979010"
+	},
+	{
+		"id" : 405,
+		"school_address" : "33 Jurong West Street 91, 64903810"
+	},
+	{
+		"id" : 406,
+		"school_address" : "147 West Coast Road, 1273687"
+	},
+	{
+		"id" : 407,
+		"school_address" : "61 Choa Chu Kang Street 51, 6893336"
+	},
+	{
+		"id" : 408,
+		"school_address" : "10 Bishan Street 13, 57979525"
+	},
+	{
+		"id" : 409,
+		"school_address" : "12 Pasir Ris Street 11, 51907313"
+	},
+	{
+		"id" : 410,
+		"school_address" : "20 Ubi Avenue 1, 40894028"
+	},
+	{
+		"id" : 411,
+		"school_address" : "25 Mount Vernon Road, 36805122"
+	},
+	{
+		"id" : 412,
+		"school_address" : "12 Marsiling Road, 73911023"
+	},
+	{
+		"id" : 413,
+		"school_address" : "2 Ang Mo Kio Street 21, 5693841"
+	},
+	{
+		"id" : 414,
+		"school_address" : "31 Pasir Ris Street 51, 51890113"
+	},
+	{
+		"id" : 415,
+		"school_address" : "11 Blackmore Drive, 59998626"
+	},
+	{
+		"id" : 416,
+		"school_address" : "50 Hougang Avenue 8, 5387859"
+	},
+	{
+		"id" : 417,
+		"school_address" : "20 Anchorvale Link, 54507916"
+	},
+	{
+		"id" : 418,
+		"school_address" : "41 Clementi Avenue 1, 1299567"
+	},
+	{
+		"id" : 419,
+		"school_address" : "2 Linden Drive, 28868326"
+	},
+	{
+		"id" : 420,
+		"school_address" : "37 Hillcrest Road, 28891326"
+	},
+	{
+		"id" : 421,
+		"school_address" : "901 Yishun Ring Road, 76868924"
+	},
+	{
+		"id" : 422,
+		"school_address" : "1020 Dover Road, 13965730"
+	},
+	{
+		"id" : 423,
+		"school_address" : "1 Tampines Street 32, 52928318"
+	},
+	{
+		"id" : 424,
+		"school_address" : "11 Rivervale Link, 54508116"
+	},
+	{
+		"id" : 425,
+		"school_address" : "585 Yishun Ring Road, 76869224"
+	},
+	{
+		"id" : 426,
+		"school_address" : "3 Yishun Street 22, 76857824"
+	},
+	{
+		"id" : 427,
+		"school_address" : "151 Towner Road, 32783011"
+	},
+	{
+		"id" : 428,
+		"school_address" : "20 Clementi Avenue 1, 1299577"
+	},
+	{
+		"id" : 429,
+		"school_address" : "10 Yishun Street 81, 76845424"
+	},
+	{
+		"id" : 430,
+		"school_address" : "3 York Hill, 16862227"
+	},
+	{
+		"id" : 431,
+		"school_address" : "11 Pasir Ris Street 41, 51893413"
+	},
+	{
+		"id" : 432,
+		"school_address" : "390 Tampines Street 21, 52940018"
+	},
+	{
+		"id" : 433,
+		"school_address" : "296 Lor Ah Soo, 5367429"
+	},
+	{
+		"id" : 434,
+		"school_address" : "21 Fernvale Link, 79770216"
+	},
+	{
+		"id" : 435,
+		"school_address" : "10 Serangoon Avenue 4, 55609417"
+	},
+	{
+		"id" : 436,
+		"school_address" : "10 Sin Ming Walk, 57556625"
+	},
+	{
+		"id" : 437,
+		"school_address" : "5209 Ang Mo Kio Avenue 6, 5698451"
+	},
+	{
+		"id" : 438,
+		"school_address" : "51 Edgefield Plains, 82887014"
+	},
+	{
+		"id" : 439,
+		"school_address" : "1 Strathmore Road, 14880030"
+	},
+	{
+		"id" : 440,
+		"school_address" : "2A Margaret Drive, 14929530"
+	},
+	{
+		"id" : 441,
+		"school_address" : "2 Braddell Rise, 31887122"
+	},
+	{
+		"id" : 442,
+		"school_address" : "1 Raffles Institution Lane, 57595425"
+	},
+	{
+		"id" : 443,
+		"school_address" : "50 Choa Chu Kang North 5, 6896216"
+	},
+	{
+		"id" : 444,
+		"school_address" : "6 Boon Lay Avenue, 64996110"
+	},
+	{
+		"id" : 445,
+		"school_address" : "3 Woodlands Street 81, 73852423"
+	},
+	{
+		"id" : 446,
+		"school_address" : "1 Technology Drive, 1385727"
+	},
+	{
+		"id" : 447,
+		"school_address" : "1 Zubir Said Drive, 22796827"
+	},
+	{
+		"id" : 448,
+		"school_address" : "30 Sembawang Crescent, 75770415"
+	},
+	{
+		"id" : 449,
+		"school_address" : "10 Compassvale Lane, 54509016"
+	},
+	{
+		"id" : 450,
+		"school_address" : "21 Serangoon North Avenue 1, 55588917"
+	},
+	{
+		"id" : 451,
+		"school_address" : "11 Upper Serangoon View, 5342379"
+	},
+	{
+		"id" : 452,
+		"school_address" : "190 Dunearn Road, 30943729"
+	},
+	{
+		"id" : 453,
+		"school_address" : "1 Champions Way, 73791323"
+	},
+	{
+		"id" : 454,
+		"school_address" : "1 Woodlands Drive 64, 73775823"
+	},
+	{
+		"id" : 455,
+		"school_address" : "30 Tampines Avenue 8, 52959318"
+	},
+	{
+		"id" : 456,
+		"school_address" : "15 Francis Thomas Drive, 35934222"
+	},
+	{
+		"id" : 457,
+		"school_address" : "1600 Bedok North Avenue 4, 4697002"
+	},
+	{
+		"id" : 458,
+		"school_address" : "24 Serangoon Avenue 1, 55614017"
+	},
+	{
+		"id" : 459,
+		"school_address" : "2 Tampines Street 82, 52898618"
+	},
+	{
+		"id" : 460,
+		"school_address" : "38 Malcolm Road, 30827429"
+	},
+	{
+		"id" : 461,
+		"school_address" : "111 Farrer Road, 25924026"
+	},
+	{
+		"id" : 462,
+		"school_address" : "490 East Coast Road, 4290582"
+	},
+	{
+		"id" : 463,
+		"school_address" : "3 Bukit Batok Street 34, 6593223"
+	},
+	{
+		"id" : 464,
+		"school_address" : "252 Tampines St 12, 52942718"
+	},
+	{
+		"id" : 465,
+		"school_address" : "20 Dunman Lane, 43927212"
+	},
+	{
+		"id" : 466,
+		"school_address" : "130 Haig Road, 43879612"
+	},
+	{
+		"id" : 467,
+		"school_address" : "2 Tampines Avenue 9, 52956418"
+	},
+	{
+		"id" : 468,
+		"school_address" : "600 Upper East Coast Road, 4655612"
+	},
+	{
+		"id" : 469,
+		"school_address" : "20 Choa Chu Kang Street 62, 6891436"
+	},
+	{
+		"id" : 470,
+		"school_address" : "2 Siglap Link, 4488802"
+	},
+	{
+		"id" : 471,
+		"school_address" : "61 Senja Road, 6777376"
+	},
+	{
+		"id" : 472,
+		"school_address" : "11 Jurong West Street 25, 64835010"
+	},
+	{
+		"id" : 473,
+		"school_address" : "30 Bishan Street 24, 57974725"
+	},
+	{
+		"id" : 474,
+		"school_address" : "3 Woodlands Avenue 6, 73899023"
+	},
+	{
+		"id" : 475,
+		"school_address" : "10 Woodlands Ring Road, 73823923"
+	},
+	{
+		"id" : 476,
+		"school_address" : "11 Marsiling Road, 73911123"
+	},
+	{
+		"id" : 477,
+		"school_address" : "11 Hougang Avenue 8, 5387899"
+	},
+	{
+		"id" : 478,
+		"school_address" : "3063 Ang Mo Kio Avenue 5, 5698681"
+	},
+	{
+		"id" : 479,
+		"school_address" : "4 Yishun Street 71, 76851624"
+	},
+	{
+		"id" : 480,
+		"school_address" : "6 Yishun Street 21, 76861024"
+	},
+	{
+		"id" : 481,
+		"school_address" : "103 Yuan Ching Road, 61865410"
+	},
+	{
+		"id" : 482,
+		"school_address" : "35 Jurong West Street 41, 64940610"
+	},
+	{
+		"id" : 483,
+		"school_address" : "8 Sumang Walk, 82867614"
+	},
+	{
+		"id" : 484,
+		"school_address" : "47 Hougang Avenue 1, 5388849"
+	},
+	{
+		"id" : 485,
+		"school_address" : "62 Bukit Panjang Ring Road, 6799626"
+	},
+	{
+		"id" : 486,
+		"school_address" : "13 Serangoon Avenue 3, 55612317"
+	},
+	{
+		"id" : 487,
+		"school_address" : "1033 Upper Serangoon Road, 5347689"
+	},
+	{
+		"id" : 488,
+		"school_address" : "25 Dover Close East, 13974530"
+	},
+	{
+		"id" : 489,
+		"school_address" : "121 Dover Road, 13965030"
+	},
+	{
+		"id" : 490,
+		"school_address" : "129 Whitley Road, 29782229"
+	},
+	{
+		"id" : 491,
+		"school_address" : "10 Tanjong Rhu Road, 43689511"
+	},
+	{
+		"id" : 492,
+		"school_address" : "2 Sin Ming Place, 57383825"
+	},
+	{
+		"id" : 493,
+		"school_address" : "661 Bukit Timah Road, 26973426"
+	},
+	{
+		"id" : 494,
+		"school_address" : "21 Teck Whye Walk, 6882586"
+	},
+	{
+		"id" : 495,
+		"school_address" : "60 Bukit Batok West Avenue 8, 6589653"
+	},
+	{
+		"id" : 496,
+		"school_address" : "128 Serangoon Avenue 3, 55611117"
+	},
+	{
+		"id" : 497,
+		"school_address" : "37 Hillcrest Road, 28891326"
+	},
+	{
+		"id" : 498,
+		"school_address" : "20 Clementi Avenue 1, 1299577"
+	},
+	{
+		"id" : 499,
+		"school_address" : "1 Raffles Institution Lane, 57595425"
+	},
+	{
+		"id" : 500,
+		"school_address" : "6 Boon Lay Avenue, 64996110"
+	},
+	{
+		"id" : 501,
+		"school_address" : "1 Zubir Said Drive, 22796827"
+	},
+	{
+		"id" : 502,
+		"school_address" : "1 Champions Way, 73791323"
+	},
+	{
+		"id" : 503,
+		"school_address" : "5 Sorby Adams Drive, 35769122"
+	},
+	{
+		"id" : 504,
+		"school_address" : "38 Malcolm Road, 30827429"
+	},
+	{
+		"id" : 505,
+		"school_address" : "21 Pasir Ris Street 71, 51879913"
+	},
+	{
+		"id" : 506,
+		"school_address" : "2 Tampines Avenue 9, 52956418"
+	},
+	{
+		"id" : 507,
+		"school_address" : "20 Marine Vista, 4490352"
+	},
+	{
+		"id" : 508,
+		"school_address" : "3 Yishun Ring Road, 76867524"
+	},
+	{
+		"id" : 509,
+		"school_address" : "21 Jurong West Street 81, Singapore 649075"
+	},
+	{
+		"id" : 510,
+		"school_address" : "7 Jurong West Street 41 Singapore 649414"
+	},
+	{
+		"id" : 511,
+		"school_address" : "490 Thomson Road Singapore 298191"
+	},
+	{
+		"id" : 512,
+		"school_address" : "27 Punggol Field Walk, Singapore 828649"
+	},
+	{
+		"id" : 513,
+		"school_address" : "449 Yio Chu Kang Rd, Singapore 805946"
+	},
+	{
+		"id" : 514,
+		"school_address" : "1 Woodleigh Lane Singapore 357684"
+	},
+	{
+		"id" : 515,
+		"school_address" : "301 Dover Road, Singapore, 139644"
+	},
+	{
+		"id" : 516,
+		"school_address" : "72 Bukit Tinggi Road, Singapore 289760"
+	},
+	{
+		"id" : 517,
+		"school_address" : "71 Bukit Batok West Avenue 8, Singapore, 658966"
+	},
+	{
+		"id" : 518,
+		"school_address" : "1 Lorong Chuan Singapore 556 818"
+	},
+	{
+		"id" : 519,
+		"school_address" : "95 Portsdown Road Singapore 139299"
+	},
+	{
+		"id" : 520,
+		"school_address" : "58 Chestnut Drive, 679301, Singapore"
+	},
+	{
+		"id" : 521,
+		"school_address" : "510 Thomson Road SLF Building #17-03\/04 Singapore 298135"
+	},
+	{
+		"id" : 522,
+		"school_address" : "3 , Hu Ching Road, Jurong West Singapore – 619 651"
+	},
+	{
+		"id" : 524,
+		"school_address" : "1 Tampines Street 73 Singapore 528704"
+	},
+	{
+		"id" : 525,
+		"school_address" : "65 Bukit Tinggi Road Singapore 289757"
+	},
+	{
+		"id" : 526,
+		"school_address" : "1 Kay Siang Rd, Singapore 248922"
+	},
+	{
+		"id" : 527,
+		"school_address" : "491B, River Valley Road, Office Tower #17-01\/04, Singapore"
+	},
+	{
+		"id" : 528,
+		"school_address" : "143 East Coast Rd, Singapore 428833"
+	},
+	{
+		"id" : 529,
+		"school_address" : "58, Lowland Road (Kovan MRT) Singapore 547453"
+	},
+	{
+		"id" : 530,
+		"school_address" : "8 Claymore Hill #01-01 Singapore 229572"
+	},
+	{
+		"id" : 531,
+		"school_address" : "190 Changi Road, MDIS Building, Singapore 419974"
+	},
+	{
+		"id" : 532,
+		"school_address" : "1 Slim Barracks Rise, #05-02, #06-01\/06\/07 NTU@One North, Singapore 138664"
+	},
+	{
+		"id" : 533,
+		"school_address" : "21 Preston Road Singapore 109355"
+	},
+	{
+		"id" : 534,
+		"school_address" : "61 Jalan Hitam Manis Singapore 278475"
+	},
+	{
+		"id" : 535,
+		"school_address" : "XCL American Academy 2 Yishun Street 42 Singapore 768039"
+	},
+	{
+		"id" : 536,
+		"school_address" : "663 Bukit Timah Road, Singapore 269783"
+	},
+	{
+		"id" : 537,
+		"school_address" : "491 River Valley Road #16\/03 Singapore 248371"
+	},
+	{
+		"id" : 538,
+		"school_address" : "1207 Dover Road Singapore 139654"
+	},
+	{
+		"id" : 539,
+		"school_address" : "2 Yishun Street 42 Singapore 768039"
+	},
+	{
+		"id" : 540,
+		"school_address" : "2 Tampines Street 92, Singapore 528889"
+	},
+	{
+		"id" : 541,
+		"school_address" : "71 Bukit Tinggi Road Singapore 289759"
+	},
+	{
+		"id" : 542,
+		"school_address" : "The Yards, 396 Joo Chiat Place, Singapore 428079"
+	},
+	{
+		"id" : 543,
+		"school_address" : "Capital Square Two, 21 Church Street, #01-01, Singapore 049480"
+	},
+	{
+		"id" : 544,
+		"school_address" : "10 Winstedt Road, Block C #01-16 Singapore 227977"
+	},
+	{
+		"id" : 545,
+		"school_address" : "2 Sims Way, Singapore 397635"
+	},
+	{
+		"id" : 546,
+		"school_address" : "10 Winstedt Road, Block A #02-04, 227977, Singapore"
+	},
+	{
+		"id" : 547,
+		"school_address" : "36 Aroozoo Avenue Singapore 539842"
+	},
+	{
+		"id" : 549,
+		"school_address" : "38 Swiss Club Road, Singapore 288140"
+	},
+	{
+		"id" : 555,
+		"school_address" : "3 Jalan Ulu Sembawang Singapore 758932"
+	},
+	{
+		"id" : 556,
+		"school_address" : "San Yu Adventist School Limited 299 Thomson Road 307652 Singapore"
+	},
+	{
+		"id" : 557,
+		"school_address" : "11 Hillside Dr, Singapore 548926"
+	},
+	{
+		"id" : 558,
+		"school_address" : "191 Upper Bukit Timah Rd, Singapore 588180"
+	},
+	{
+		"id" : 560,
+		"school_address" : "81 Pasir Ris Heights Singapore 519292"
+	},
+	{
+		"id" : 561,
+		"school_address" : "57 West Coast Road　Singapore 127366"
+	},
+	{
+		"id" : 562,
+		"school_address" : "121 Dover Road, Singapore 139650"
+	},
+	{
+		"id" : 563,
+		"school_address" : "75E Loewen Rd, Singapore 248845"
+	},
+	{
+		"id" : 564,
+		"school_address" : "10 Tanglin Road, Singapore 247908"
+	},
+	{
+		"id" : 565,
+		"school_address" : "Tanglin Rd, Phoenix Park Singapore 247979"
+	},
+	{
+		"id" : 566,
+		"school_address" : "33 Allanbrooke Road, Sentosa, Singapore 099981"
+	},
+	{
+		"id" : 567,
+		"school_address" : "583 Orchard Road, #13-02\/03 Forum The Shopping Mall, Singapore, 238884"
+	},
+	{
+		"id" : 569,
+		"school_address" : "130 Depot Road Singapore 109708"
+	},
+	{
+		"id" : 570,
+		"school_address" : "1 Aljunied Walk, Singapore 387293"
+	},
+	{
+		"id" : 571,
+		"school_address" : "51 Broadrick Road Singapore 439501"
+	},
+	{
+		"id" : 572,
+		"school_address" : "100 Victoria St, National Library Building, #08-02, Singapore 188064"
+	},
+	{
+		"id" : 573,
+		"school_address" : "2 Dairy Farm Lane Singapore 677621"
+	},
+	{
+		"id" : 574,
+		"school_address" : "27A Jubilee Road, Singapore 128575"
+	},
+	{
+		"id" : 575,
+		"school_address" : "78 Jalan Senang, Singapore 418417"
+	},
+	{
+		"id" : 576,
+		"school_address" : "12 Kallang Avenue #03-12, Aperia, Singapore 339511"
+	},
+	{
+		"id" : 577,
+		"school_address" : "40 Woodlands Street 41, Singapore 738547"
+	},
+	{
+		"id" : 578,
+		"school_address" : "231 Mountbatten Centre Building D Level 2, Singapore 397999"
+	},
+	{
+		"id" : 579,
+		"school_address" : "1 Chuan Lane Singapore 554299"
+	},
+	{
+		"id" : 580,
+		"school_address" : "SLF Building 510 Thomson Road #B2-00, #B1-02 and #14-01 Singapore 298135"
+	},
+	{
+		"id" : 581,
+		"school_address" : "169, Jalan Bukit Merah, #02-15 (Tower 4) Singapore 150169"
+	},
+	{
+		"id" : 582,
+		"school_address" : "492 Upper Bukit Timah Road Singapore 678095"
+	},
+	{
+		"id" : 583,
+		"school_address" : "3000 Ang Mo Kio Avenue 3 Singapore 569928"
+	},
+	{
+		"id" : 584,
+		"school_address" : "23 Jalan Teliti, Singapore 537319"
+	}
+]

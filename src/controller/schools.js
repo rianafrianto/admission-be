@@ -3,6 +3,8 @@ const express = require("express");
 const schoolsModel = require('../models/schools')
 const crawlController = require('./crawl')
 const getCoordinatesFromNominatim = require("../middleware/geocode")
+const fs = require('fs');
+const path = require('path');
 
 const createNewSchool = async(req, res) => {
     const {data} = req.body;
@@ -815,6 +817,45 @@ const updateGeoCodeBySchoolId = async (req, res) => {
     });
   }
 }
+
+const updateGeoCodesFromJson = async (req, res) => {
+  const filePath = path.join(__dirname, '../data', 'schools.json');  // Make sure json file same path
+
+  try {
+    // Check file exist
+    fs.accessSync(filePath, fs.constants.F_OK);
+
+    // Read file JSON
+    const fileData = fs.readFileSync(filePath, 'utf-8');
+    const schoolsData = JSON.parse(fileData);
+
+    // looping for every school data and update geocode
+    for (const school of schoolsData) {
+      const { id, school_address } = school;
+      const coordinates = await getCoordinatesFromNominatim(school_address); // Get coordinate with school address
+
+      if (coordinates) {
+        await schoolsModel.updateGeoBySchoolId(id, coordinates); // Update geo code in database
+        console.log(`Updated geocode for schoolId: ${id}`);
+      } else {
+        console.log(`No coordinates found for schoolId: ${id}`);
+      }
+    }
+
+    res.status(201).json({
+      status: "success",
+      message: "Geo codes updated for all schools."
+    });
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({
+      status: "error",
+      message: "Failed to update geo codes for schools.",
+      error: error.message
+    });
+  }
+};
+
   
 
 module.exports={
@@ -849,5 +890,6 @@ module.exports={
     createSchoolInterFees,
     getSchoolInterFees,
     deleteSchoolInterFees,
-    updateGeoCodeBySchoolId
+    updateGeoCodeBySchoolId,
+    updateGeoCodesFromJson
 }
